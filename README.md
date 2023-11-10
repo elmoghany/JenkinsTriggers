@@ -1,1 +1,3 @@
-## Once any push occurs, jenkins is triggered automatically launch the pipeline
+# Once any push occurs
+##Jenkins is triggered automatically
+###to launch Jenkins pipeline
